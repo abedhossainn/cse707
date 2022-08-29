@@ -35,7 +35,7 @@ https://docs.google.com/presentation/d/1yOFGibeBzDXu14OM1fPfFZAA6T0SNOvqOYn1QzB2
 
 Youtube unlisted video link: 
 
-https://youtu.be/tqrUOFQ2-tY
+
     
 =======================
 End of the file

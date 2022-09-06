@@ -25,7 +25,7 @@ Quazi Shahriar Haq
 22366049
 
 Paper (PDF):
-https://drive.google.com/file/d/1YbJgs57woQI0aJT42Gm7bBUxBW10HRXI/view?usp=sharing
+https://drive.google.com/file/d/1aWcdCGloJDk0i-FYJCZXzS73ns2H9Q1T/view?usp=sharing
 
 Paper (Overleaf):
 https://www.overleaf.com/read/yngjnvgmmbhr
